@@ -1,10 +1,12 @@
 body {
     background-color:#FFFAF0;
+    background-image: url('../images/../assets/images/ico.png');
+    
 }
 h1 {
     color: black;
     font-size: 70px;
-    font-family: 'Trebuchet MS';
+    font-family: 'Fonseca Rounded';
     font-weight: bold;
     text-align: center;
 }
@@ -26,7 +28,7 @@ p {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    font-family: Verdana;
+    font-family: Fonseca Rounded;
   }
   
   
